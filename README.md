@@ -1,6 +1,6 @@
 # Serpentor
 
-[Serpentor](https://en.wikipedia.org/wiki/Serpentor) is the [Cobra](https://github.com/spf13/cobra) Emporer.
+[Serpentor](https://en.wikipedia.org/wiki/Serpentor), Emperer of [Cobra](https://github.com/spf13/cobra).
 
 It provides a concise way to create new commands as determined by rigorous subjectivity.
 
