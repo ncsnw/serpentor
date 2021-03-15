@@ -2,10 +2,9 @@
 
 [Serpentor](https://en.wikipedia.org/wiki/Serpentor), Emperer of [Cobra](https://github.com/spf13/cobra).
 
-It provides a concise way to create new commands as determined by rigorous subjectivity.
+This module provides a concise way to create new commands as determined by rigorous subjectivity.
 
-It is not meant to provide all the functionality `cobra.Command` does. 
-You can get the underlying `cobra.Command` by calling `GetCobra()` to perform any actions you need to.
+Serpentor is not meant to provide all the functionality of `cobra.Command`, for anything missing use `GetCobra()` to get the underlying `cobra.Command`.
 
 ```go
 package main
